@@ -19,11 +19,11 @@
 package org.eclipse.jetty.cdi.owb;
 
 import java.util.Set;
-import javax.servlet.ServletContainerInitializer;
-import javax.servlet.ServletContext;
-import javax.servlet.ServletContextEvent;
-import javax.servlet.ServletException;
 
+import jakarta.servlet.ServletContainerInitializer;
+import jakarta.servlet.ServletContext;
+import jakarta.servlet.ServletContextEvent;
+import jakarta.servlet.ServletException;
 import org.apache.webbeans.servlet.WebBeansConfigurationListener;
 
 /**
